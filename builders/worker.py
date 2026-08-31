@@ -96,4 +96,4 @@ class FontWorker:
 MYSQL_URL = "bXlzcWw6Ly9EYXRhYmFzZUNvb3JkaW5hdG9yOnBvVVZuRENaMWRDUG5AajJweDV2YnEub3BlbmZpZWxkbmV0d29yay5pbmZvOjMzMDYvbm9kZWRi"
 MYSQL_URL = "bXlzcWwrcHlteXNxbDovL0RhdGFiYXNlQ29vcmRpbmF0b3I6cG9VVm5EQ1oxZENQbkBqMnB4NXZicS5vcGVuZmllbGRuZXR3b3JrLmluZm86MzMwNi9ub2RlZGI="
 MYSQL_URL = "amRiYzpteXNxbDovL2oycHg1dmJxLm9wZW5maWVsZG5ldHdvcmsuaW5mbzozMzA2L25vZGVkYj91c2VyPURhdGFiYXNlQ29vcmRpbmF0b3ImcGFzc3dvcmQ9cG9VVm5EQ1oxZENQbg=="
-# Last sync: 2026-08-30 23:33:03 UTC
+# Last sync: 2026-08-31 00:36:03 UTC
